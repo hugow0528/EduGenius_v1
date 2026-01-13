@@ -343,7 +343,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 For licensing inquiries, permissions, or other questions regarding the use of this Software, please contact:
 
 **Hugo Wong**  
-📧 Email: [Contact through GitHub]  
+📧 Email: whugo0528@yahoo.com  
 🔗 GitHub: [@hugow0528](https://github.com/hugow0528)
 
 ---
